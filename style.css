@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+myweb{
+    overflow-x: hidden;
+}
+mynavbar{
+    background-color: cyan;
+    width: 100vw;
+    display: flex;
+    height: 10vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+mylogo{
+    font-size: 25px;
+    
+}
+
+mylistitem{
+    padding: 8px 15px;
+    font-size: 18px;
+    cursor: pointer;
+   
+}
+
+mylistitem:hover{
+    background-color: white;
+    color: cyan;
+    border-radius: 8px;
+}
+
+myherosection{
+    background: url("https://i.pinimg.com/736x/d4/4e/5e/d44e5ec4f6f835cf7e5e018926d872d8.jpg");
+    width: 100vw;
+    height: 90vh;
+    display: inline-block;
+    background-size: cover;
+}
+
+mycards{
+    display: flex;
+    justify-content: space-around;
+}
+mycard{
+    background: url("https://i.pinimg.com/736x/d4/4e/5e/d44e5ec4f6f835cf7e5e018926d872d8.jpg");
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}

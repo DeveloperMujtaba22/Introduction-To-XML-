@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="style.css" ?>
+
+<myweb>
+    <mynavbar>
+        <mylogo>LOGO</mylogo>
+        <mynavlist>
+            <mylistitem>Home</mylistitem>
+            <mylistitem>About</mylistitem>
+            <mylistitem>Contact</mylistitem>
+            <mylistitem>Services</mylistitem>
+        </mynavlist>
+    </mynavbar>
+
+    <myherosection></myherosection>
+
+    <mycards>
+        <mycard>sazfvd</mycard>
+        <mycard>fgdf</mycard>
+        <mycard>bfdb</mycard>
+    </mycards>
+</myweb>
